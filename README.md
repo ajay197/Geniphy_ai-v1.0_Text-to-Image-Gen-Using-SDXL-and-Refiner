@@ -32,14 +32,9 @@ To run Geniphy_ai, make sure the following libraries are installed:
    cd Geniphy_ai
    ```
 
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Run the notebook file `Geniphy_ai_v1.0.ipynb` in Google Colab.
 
-3. Run the notebook file `Geniphy_ai_v1.0.ipynb` in Google Colab.
-
-4. Select the **NVIDIA L4 GPU** as the hardware accelerator in Colab (Runtime > Change runtime type > Hardware accelerator > GPU).
+3. Select the **NVIDIA L4 GPU** as the hardware accelerator in Colab (Runtime > Change runtime type > Hardware accelerator > GPU).
 
 ## Features
 - **High-quality output generation**: The model can produce lifelike images with customizable parameters.
